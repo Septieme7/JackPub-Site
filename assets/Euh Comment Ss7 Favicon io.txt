@@ -1,0 +1,22 @@
+
+
+Installation
+les fichiers répertoriés ci-dessous. Placez les fichiers dans le répertoire racine de votre site Web.
+
+android-chrome-192x192.png
+android-chrome-512x512.png
+icône de touche Apple.png
+favicon-16x16.png
+favicon-32x32.png
+favicon.ico
+site.webmanifest
+
+Ensuite, copiez les balises de lien suivantes et collez-les dans le head de votre HTML.
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="assets/icon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/icon/favicon-16x16.png">
+<link rel="manifest" href="assets/manifest/site.webmanifest">
+<link rel="stylesheet" href="assets/css/style.css">
+
